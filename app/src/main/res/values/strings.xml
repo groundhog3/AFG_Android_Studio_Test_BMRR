@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">TriviaApp</string>
-    <string name="welcomeText">Welcome to my Trivia!</string>
+    <string name="welcomeText">Beans!</string>
     <string name="startTextStr">Press to start!</string>
     <string name="questionTextStr"></string>
     <string name="AnswerTextStr"></string>
